@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj": {}
+    "c:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj": {
+    "c:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "c:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj",
+        "projectPath": "c:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\mtszp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\obj\\",
+        "outputPath": "c:\\Users\\mtszp\\Desktop\\Nauka\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
